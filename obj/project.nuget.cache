@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QsXHwVZ7lyXBvSStpmijJRgU++f8UMXpSBPWy8s2+CEmwAeAZfkMmg6L4MbTM2x8X4kzXyuZyvrYh1rY1CayIQ==",
+  "dgSpecHash": "FW+7Wcp0n3IvReZ+QI9kJdEC4jO9gpPtnRs2pMUw3DWwe5hys5S5wX27bUaFrx79804hclcwtnhpD5mpq1pLbA==",
   "success": true,
-  "projectFilePath": "C:\\Usuários\\Projetos\\LinguagemC\\SalesWebMVC\\SalesWebMvc.csproj",
+  "projectFilePath": "C:\\Usuários\\Projetos\\LinguagemC\\SalesWebMVCnovo\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\infm\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\infm\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

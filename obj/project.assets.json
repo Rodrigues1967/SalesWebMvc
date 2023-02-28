@@ -9062,11 +9062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Usuários\\Projetos\\LinguagemC\\SalesWebMVC\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Usuários\\Projetos\\LinguagemC\\SalesWebMVCnovo\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Usuários\\Projetos\\LinguagemC\\SalesWebMVC\\SalesWebMvc.csproj",
+      "projectPath": "C:\\Usuários\\Projetos\\LinguagemC\\SalesWebMVCnovo\\SalesWebMvc\\SalesWebMvc.csproj",
       "packagesPath": "C:\\Users\\infm\\.nuget\\packages\\",
-      "outputPath": "C:\\Usuários\\Projetos\\LinguagemC\\SalesWebMVC\\obj\\",
+      "outputPath": "C:\\Usuários\\Projetos\\LinguagemC\\SalesWebMVCnovo\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
